@@ -22,3 +22,4 @@ public class SampledemoApplication {
 //committing sixth change in local, for feature update 5
 
 //git revert ex, update 1 - all fine
+//git revert ex, update 2 - all fine
