@@ -14,3 +14,9 @@ public class SampledemoApplication {
 //First commit in local
 
 // changes done in remote
+
+//committing second change in local, for feature update 1
+//committing third change in local, for feature update 2
+//committing fourth change in local, for feature update 3
+//committing fifth change in local, for feature update 4
+//committing sixth change in local, for feature update 5
