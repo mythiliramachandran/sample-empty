@@ -23,5 +23,4 @@ public class SampledemoApplication {
 
 //git revert ex, update 1 - all fine
 //git revert ex, update 2 - all fine
-//git revert ex, update 3 - error - committed in local
 //git revert ex, update 4 - all fine
