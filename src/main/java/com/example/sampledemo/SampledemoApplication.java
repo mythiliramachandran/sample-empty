@@ -18,3 +18,5 @@ public class SampledemoApplication {
 //new branch, feature update 5
 
 //new branch from master, conflict in remote branch
+
+//remote changes - conflict in local
